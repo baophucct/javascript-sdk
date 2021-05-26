@@ -1242,9 +1242,10 @@ bip32@^1.0.2:
     typeforce "^1.11.5"
     wif "^2.0.6"
 
-bip39@^3.0.0:
-  version "3.0.0"
-  resolved "https://npm-registry.fdgahl.cn/bip39/-/bip39-3.0.0.tgz#5478336673db911330d70dde58f437a6a5ec7cf7"
+bip39@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/bip39/-/bip39-3.0.4.tgz#5b11fed966840b5e1b8539f0f54ab6392969b2a0"
+  integrity sha512-YZKQlb752TrUWqHWj7XAwCSjYEgGAk+/Aas3V7NyjQeZYsztO8JnQUaCWhcnL4T+jL8nvB8typ2jRPzTlgugNw==
   dependencies:
     "@types/node" "11.11.6"
     create-hash "^1.1.0"
